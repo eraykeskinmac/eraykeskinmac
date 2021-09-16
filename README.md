@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Eray. 
+I'm Eray. <br/>
 They call me Mek.
 Focused on web development.
 
