@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm Eray. <br/>
-They call me Mek.
+They call me Mek. <br/>
 Focused on web development.
 
 - 🌱 I’m currently learning frontend and backend
