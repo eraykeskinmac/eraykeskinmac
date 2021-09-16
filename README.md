@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+
+
+- 🌱 I’m currently learning frontend and backend
+- 📫 How to reach me: [eraykeskinmac@gmail.com](mailto:eraykeskinmac@gmail.com)
+
 <!--
 **eraykeskinmac/eraykeskinmac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
