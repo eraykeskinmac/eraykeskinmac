@@ -2,6 +2,7 @@
 
 I'm Eray. <br/>
 They call me Mek. <br/>
+17 years old
 Focused on web development.
 
 - 🌱 I’m currently learning frontend and backend
