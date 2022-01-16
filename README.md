@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hey there 👋
 
-Hey. It’s Eray. 17 year old software developer. He is interested in frontend and backend technologies.
+My name is Oli. I'm a Junior Developer residing in Ankara and I primarily work with JS, TypeScript and React.
 
 - 🌱 I’m currently learning frontend and backend
 - 📫 How to reach me: [eraykeskinmac@gmail.com](mailto:eraykeskinmac@gmail.com)
