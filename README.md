@@ -1,14 +1,21 @@
-### Hey there 👋
+### Hey there, I'm Mustafa Eray 👋
 
-My name is Eray. I'm a Junior Developer residing in Ankara and I primarily work with JS, TypeScript and React.
 
-- � I’m currently learning Typescript and React
+I'm an 18 year old jr. frontend engineer focusing on web development.
 
-## Contact ☎
-[![Mustafa Eray Keskin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eraykeskinmac/)
-[![Mustafa Eray Keskin](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/eraykeskinmac)
 
-E-mail: eraykeskinmac@gmail.com
+## 🛠 Stack and Learning
+- [React](https://reactjs.org/) - Developing highly flexible user interfaces.
+- [Node](https://nodejs.org/en/) - Used for developing API services.
+- [Typescript](https://www.typescriptlang.org/) - TypeScript may be used to develop JavaScript applications for both client-side and server-side execution.
+- [Docker](https://www.docker.com/) - Used for packaging multiple applications into containers.
 
+
+## 🤝 Connect with me
+- [Twitter](https://twitter.com/eraykeskinmac)
+- [LinkedIn](https://www.linkedin.com/in/eraykeskinmac/)
+
+
+🐤 For a quick response <a href="https://twitter.com/eraykeskinmac">DM me on Twitter</a> or shoot me an <a href="mailto:eraykeskinmac@gmail.com">Email</a>
 
 
