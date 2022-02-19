@@ -1,7 +1,7 @@
 ### Hey there, I'm Mustafa Eray 👋
 
 
-I'm an 18 year old jr. frontend engineer focusing on web development.
+I'm an 18 year old jr. frontend developer focusing on web development.
 
 
 ## 🛠 Stack and Learn
