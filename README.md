@@ -1,1 +1,1 @@
-my website -> https://www.eraykeskin.dev/
+my website -> eraykeskin.dev
